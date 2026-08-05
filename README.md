@@ -1,6 +1,6 @@
 # 🚀 BadAi
 
-**BadAi** adalah AI Command Line Assistant yang memungkinkan Anda berinteraksi dengan berbagai Large Language Model (LLM) langsung dari terminal Linux. BadAi mendukung mode otomatis untuk mengeksekusi perintah yang dihasilkan AI maupun mode percakapan biasa sesuai kebutuhan.
+**BadAi** adalah AI Command Line Assistant yang memungkinkan Anda berinteraksi secara Unristricted dengan berbagai Large Language Model (LLM) langsung dari terminal Linux. BadAi mendukung mode otomatis untuk mengeksekusi perintah yang dihasilkan AI maupun mode percakapan biasa sesuai kebutuhan.
 
 ---
 
